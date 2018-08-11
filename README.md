@@ -18,7 +18,7 @@ To run the code :
 
 -botComm.cpp is to check the communication with the arduino.
 
+
+
 Here is a small video of the bot : 
-
-![Output sample](https://github.com/Deepank308/Fortress-KTJ-2K18/blob/master/output.gif)
-
+![Output sample](https://github.com/Deepank308/Fortress-KTJ-2K18/blob/master/ouput.gif)
