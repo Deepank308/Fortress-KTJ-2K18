@@ -1,6 +1,9 @@
 # Fortress-KTJ-2K18
 This repo contains code for the Fortress Event of KTJ-2K18, implimented from scratch
 
+Problem Statement : https://2018.robotix.in/event/fortress/
+
+
 Arena folder have some sample arenas and template for priority assignment.
 
 SourceCode folder contains the main code files written in .cpp
@@ -20,5 +23,5 @@ To run the code :
 
 
 
-Here is a small video of the bot : 
+Here is a small video of the bot :
 ![Output sample](https://github.com/Deepank308/Fortress-KTJ-2K18/blob/master/ouput.gif)
