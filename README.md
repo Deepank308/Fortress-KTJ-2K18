@@ -12,6 +12,8 @@ To run the code :
 
 3. Run either of the mainRound*.cpp code to get the path and generate command to navigate the bot on the arena.
 
-4. rrt.cpp file has the imlpementation of "primitive" RRT planner written from scratch to check the code. It just generates the waypoints for navigation of the bot.
 
-5. botComm.cpp is to check the communication with the arduino.
+
+-rrt.cpp file has the imlpementation of "primitive" RRT planner written from scratch to check the code. It just generates the     waypoints for navigation of the bot.
+
+-botComm.cpp is to check the communication with the arduino.
